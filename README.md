@@ -1,6 +1,6 @@
 # pyterrier_dr (Dense Retrieval for PyTerrier)
 
-This provides various Dense Retrieval functionality for [PyTerrier](https://github.com/terrier-org/pyterrier).
+This provides various Dense Retrieval functionalities for [PyTerrier](https://github.com/terrier-org/pyterrier).
 
 
 ## Installation
